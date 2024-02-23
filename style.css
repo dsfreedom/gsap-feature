@@ -1,0 +1,27 @@
+.menu__item {
+  display: block;
+  margin-right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  height: 40px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  color: blueviolet;
+}
+
+.loader {
+  width: 500px;
+  margin: 100px auto;
+}
+
+.progress-bar {
+  width: 0%;
+  height: 20px;
+  background-color: #2e995a;
+  border-radius: 10px;
+}
+
+.percentage {
+  margin-top: 10px;
+  text-align: center;
+}
